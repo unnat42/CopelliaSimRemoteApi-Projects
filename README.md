@@ -1,3 +1,4 @@
-# CopelliaSimRemoteApi-Projects
+# CopelliaSim RemoteApi-Projects
 
-A place to find the projects made for CopelliaSim software using python RemoteApi. 
+Projects would be using the python remote API to use the power of python along with the simulation software. Can be used to carry out analysis of a any algorithm developed, or even just learn the concepts of robotics.  
+
